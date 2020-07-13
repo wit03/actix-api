@@ -12,7 +12,7 @@ async fn find_all() -> impl Responder {
             salary: 4500,
             age: 23
         },
-        Emoloyee {
+        Employee {
             id: 2,
             first_name : "James".to_string(),
             last_name: "Bond".to_string(),
